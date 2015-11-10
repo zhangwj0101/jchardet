@@ -1,0 +1,2 @@
+# jchardet
+jchardet是mozilla自动字符集探测算法代码的java移植
